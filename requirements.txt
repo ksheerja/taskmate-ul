@@ -5,6 +5,8 @@ django-crispy-forms==2.1
 django-environ==0.11.2
 gitdb==4.0.11
 GitPython==3.1.43
+gunicorn==22.0.0
+packaging==24.0
 psycopg2==2.9.9
 smmap==5.0.1
 sqlparse==0.4.4
