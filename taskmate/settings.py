@@ -100,7 +100,7 @@ DATABASES = {
    }
 }
 
-postgresql://postgres:bVpewBseBPTeeVqQKNVCXExAvLrDkueu@roundhouse.proxy.rlwy.net:37798/railway
+
 
 
 # Password validation
